@@ -1,0 +1,15 @@
+D:\CNPM\CustomerManagement\CustomerManagementSevices\bin\Debug\net8.0\CustomerManagement.Sevices.deps.json
+D:\CNPM\CustomerManagement\CustomerManagementSevices\bin\Debug\net8.0\CustomerManagement.Sevices.dll
+D:\CNPM\CustomerManagement\CustomerManagementSevices\bin\Debug\net8.0\CustomerManagement.Sevices.pdb
+D:\CNPM\CustomerManagement\CustomerManagementSevices\bin\Debug\net8.0\CustomerManagement.Repositories.dll
+D:\CNPM\CustomerManagement\CustomerManagementSevices\bin\Debug\net8.0\CustomerManagement.Repositories.pdb
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.csproj.AssemblyReference.cache
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.AssemblyInfoInputs.cache
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.AssemblyInfo.cs
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.csproj.CoreCompileInputs.cache
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\Customer.B64A711C.Up2Date
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.dll
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\refint\CustomerManagement.Sevices.dll
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\CustomerManagement.Sevices.pdb
+D:\CNPM\CustomerManagement\CustomerManagementSevices\obj\Debug\net8.0\ref\CustomerManagement.Sevices.dll

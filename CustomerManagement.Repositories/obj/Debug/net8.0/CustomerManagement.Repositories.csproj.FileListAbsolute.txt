@@ -1,0 +1,14 @@
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\bin\Debug\net8.0\CustomerManagement.Repositories.deps.json
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\bin\Debug\net8.0\CustomerManagement.Repositories.runtimeconfig.json
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\bin\Debug\net8.0\CustomerManagement.Repositories.dll
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\bin\Debug\net8.0\CustomerManagement.Repositories.pdb
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.csproj.AssemblyReference.cache
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.AssemblyInfoInputs.cache
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.AssemblyInfo.cs
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.csproj.CoreCompileInputs.cache
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.dll
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\refint\CustomerManagement.Repositories.dll
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.pdb
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\CustomerManagement.Repositories.genruntimeconfig.cache
+D:\CNPM\CustomerManagement\CustomerManagement.Repositories\obj\Debug\net8.0\ref\CustomerManagement.Repositories.dll
